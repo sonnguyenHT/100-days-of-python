@@ -1,0 +1,5 @@
+list_letter = list()
+list_letter.append("hello")
+list_letter.append("goodbye")
+list_letter.append("boyfriend")
+list_letter.append("mountain")
