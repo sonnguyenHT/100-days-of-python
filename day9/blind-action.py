@@ -1,5 +1,11 @@
 from replit import clear
+from art import *
 
+print(art("random"))
+
+tprint("hello")
+print(text2art("Thai Son"))
+#print(logo)
 winner_name = ""
 max = 0
 lis =list()
