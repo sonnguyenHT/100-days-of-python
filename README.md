@@ -10,3 +10,11 @@ day6:   - resolve maze with loop
         - while loop
 day7:   - hangman exercise 
         - draw flow chart
+
+day9:   -dictionary
+        -nested
+
+
+
+## install all the presequite to run inside use this command
+``` pip install -r ./requirement.txt
